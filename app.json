@@ -1,0 +1,37 @@
+{
+  "expo": {
+    "name": "TaxiCab_NewSDK",
+    "slug": "taxi_cab_newsdk",
+    "privacy": "public",
+    "sdkVersion": "37.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/logo.png",
+    "facebookScheme": "fb2691006180984431",
+    "splash": {
+      "image": "./assets/splash2.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#BFFEFF"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.kmutnb.taxicaps"
+    },
+    "android": {
+      "package": "com.kmutnb.taxicaps",
+      "versionCode": 1
+    },
+    "description": ""
+  }
+}
